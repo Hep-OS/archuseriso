@@ -1,4 +1,11 @@
 ===================
+Archuseriso HepOS-Fork Authors
+===================
+
+* Leo Hogan <hepnowo@gmail.com>
+* Henry Wenger Stickel <hwengerstickel@protonmail.com>
+
+===================
 Archuseriso Authors
 ===================
 
