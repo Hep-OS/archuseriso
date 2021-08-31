@@ -47,10 +47,6 @@ Hint for gr, rs, ru and ua with two keyboard layouts: press both `Shift keys` to
 Installation
 ------------
 
-~~Install [archuseriso](https://aur.archlinux.org/packages/archuseriso/) available on the AUR~~ **Don't use this.**
-
-Alternate installation method from git repository:
-
     sudo pacman --needed -S git arch-install-scripts bash dosfstools e2fsprogs libisoburn make mtools squashfs-tools syslinux
     git clone https://github.com/laurent85v/archuseriso.git
     sudo make -C archuseriso install
