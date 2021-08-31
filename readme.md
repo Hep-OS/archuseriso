@@ -7,10 +7,6 @@ Archuseriso is based on Archiso, the Arch Linux tool for building the official i
 
 Archuseriso provides profiles and additional tools for building iso images and creating bootable usb drives. Features persistence, usb drive installation and encryption.
 
-AUR https://aur.archlinux.org/packages/archuseriso
-
-ISO download http://dl.gnutux.fr/archuseriso
-
 Features
 --------
 
@@ -51,7 +47,7 @@ Hint for gr, rs, ru and ua with two keyboard layouts: press both `Shift keys` to
 Installation
 ------------
 
-Install [archuseriso](https://aur.archlinux.org/packages/archuseriso/) available on the AUR 
+~~Install [archuseriso](https://aur.archlinux.org/packages/archuseriso/) available on the AUR~~ **Don't use this.**
 
 Alternate installation method from git repository:
 
