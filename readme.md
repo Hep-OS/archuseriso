@@ -48,7 +48,7 @@ Installation
 ------------
 
     sudo pacman --needed -S git arch-install-scripts bash dosfstools e2fsprogs libisoburn make mtools squashfs-tools syslinux
-    git clone https://github.com/laurent85v/archuseriso.git
+    git clone https://github.com/Hep-OS/archuseriso.git
     sudo make -C archuseriso install
 
 Create iso image
