@@ -58,6 +58,10 @@ Synopsis:
 
     aui-mkiso [options] <path to profile>
 
+Default HepOS profile:
+
+    sudo aui-mkiso /usr/share/archuseriso/profiles/kde/
+
 Xfce profile with default options:
 
     sudo aui-mkiso /usr/share/archuseriso/profiles/xfce/
